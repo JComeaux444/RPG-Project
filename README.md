@@ -1,5 +1,5 @@
-# A rpg project using JavaFX
-One of my favorite project to make. This is a project that uses Java and the JavaFX library to show that using basic coding concepts it is possible to make a small and fun game to play.
+# An RPG project using JavaFX
+One of my favorite projects to make. This is a project that uses Java and the JavaFX library to show that using basic coding concepts it is possible to make a small and fun game to play.
 
 Installation: Should be as easy as throwing the src zip into a project and unzipping, use
 JavaFX Library as well
